@@ -1,0 +1,35 @@
+body {margin: 30px;max-width: 968px;}
+h1, .mce-content-body h1 {font-size: 32px;font-size: 2rem;line-height: 1.33;margin-top: .96551724137931em;margin-bottom: .60344827586207em;}
+h2, .mce-content-body h2 {font-size: 28px;font-size: 1.75rem;line-height: 1.43;margin-top: 1.1666666666667em;margin-bottom: .72916666666667em;}
+h3, .mce-content-body h3 {font-size: 24px;font-size: 1.5rem;line-height: 1.36;margin-top: 1.5555555555556em;margin-bottom: .97222222222222em;}
+h4, .mce-content-body h4 {font-size: 22px;font-size: 1.375rem;}
+h5, .mce-content-body h5 {font-size: 18px;font-size: 1.125rem;}
+h6, .mce-content-body h6 {font-size: 16px;font-size: 1rem;}
+h4, .mce-content-body h4, h5, .mce-content-body h5, h6, .mce-content-body h6 {line-height: 1.25;margin-top: 2em;margin-bottom: 1.25em;}
+h1:first-child, .mce-content-body h1, h2:first-child, .mce-content-body h2, h3:first-child, .mce-content-body h3, h4:first-child, .mce-content-body h4, h5:first-child, .mce-content-body h5, h6:first-child, .mce-content-body h6:first-child {margin-top: 0;}
+@-ms-viewport {width: device-width;}
+@viewport {width: device-width;}
+@media screen and (min-width: 64em) {blockquote.alignleft, blockquote.alignright {width: 52%;}
+	h1, .mce-content-body h1 {font-size: 36px;font-size: 2.25rem;}
+	h2, .mce-content-body h2 {font-size: 32px;font-size: 2rem;}
+	h3, .mce-content-body h3 {font-size: 28px;font-size: 1.75rem;}
+	h4, .mce-content-body h4 {font-size: 24px;font-size: 1.5rem;}
+	h5, .mce-content-body h5 {font-size: 22px;font-size: 1.375rem;}
+	h6, .mce-content-body h6 {font-size: 18px;font-size: 1.125rem;}}
+@media screen and (min-width: 85.375em) {h1, .mce-content-body h1 {font-size: 42px;font-size: 2.625rem;}
+	h2, .mce-content-body h2 {font-size: 36px;font-size: 2.25rem;}
+	h3, .mce-content-body h3 {font-size: 32px;font-size: 2rem;}
+	h4, .mce-content-body h4 {font-size: 28px;font-size: 1.75rem;}
+	.button, input[type="button"], input[type="reset"], input[type="submit"] {font-size: 15px;font-size: .9375rem;padding: 15px 35px 14px;}
+	caption, th, td {padding: .667em 1em;}}
+@media screen and (min-width: 100em) {body {font-size: 21px;font-size: 1.3125rem;}
+	h1, .mce-content-body h1 {font-size: 58px;font-size: 3.625rem;}
+	h2, .mce-content-body h2 {font-size: 48px;font-size: 3rem;}
+	h3, .mce-content-body h3 {font-size: 36px;font-size: 2.25rem;}
+	h4, .mce-content-body h4 {font-size: 28px;font-size: 1.75rem;}
+	h5, .mce-content-body h5 {font-size: 24px;font-size: 1.5rem;}}
+.rtl blockquote {padding: 0 1.263157895em 0 0;}
+.rtl blockquote > ul, .rtl blockquote > ol {margin-right: 1.5em;margin-left: auto;}
+.rtl table th, .rtl .mce-item-table th, .rtl .mce-item-table td, .rtl table caption {text-align: right;}
+.rtl ul, .rtl ol {margin: 0 1.75em 1.5em 0;}
+.rtl li > ul, .rtl li > ol {margin-bottom: 0;}
